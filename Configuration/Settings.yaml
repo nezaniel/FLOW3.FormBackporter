@@ -1,0 +1,8 @@
+#                                                                        #
+# Settings Configuration for the TYPO3.FluidBackporter Package           #
+#                                                                        #
+
+TYPO3:
+  FormBackporter:
+    targetPath: %FLOW3_PATH_DATA%Resources/Packages/FormBackporter/Backport/
+    emptyTargetDirectory: true

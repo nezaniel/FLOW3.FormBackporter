@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package xmlns="http://typo3.org/ns/2008/flow3/package">
+    <key>TYPO3.FormBackporter</key>
+    <title>Form Backporter</title>
+    <description>Backporting</description>
+    <version>0.1.0</version>
+    <state>Development</state>
+    <categories/>
+    <parties>
+        <person role="LeadDeveloper">
+            <name>Bernhard Schmitt</name>
+            <email>b.schitt@core4.de</email>
+            <website>http://core4.de</website>
+            <organisation>core4 Kreativagentur</organisation>
+            <repositoryUserName>nezaniel.himself</repositoryUserName>
+        </person>
+    </parties>
+    <constraints>
+        <depends/>
+        <conflicts/>
+        <suggests/>
+    </constraints>
+</package>
